@@ -1,0 +1,253 @@
+{
+	"cities": [
+		{
+			"_id": 584243,
+			"name": "Adler"
+		},
+
+		{
+			"_id": 582182,
+			"name": "Anapa"
+		},
+
+		{
+			"_id": 581049,
+			"name": "Arkhangelsk"
+		},
+
+		{
+			"_id": 580497,
+			"name": "Astrakhan"
+		},
+
+		{
+			"_id": 1510853,
+			"name": "Barnaul"
+		},
+
+		{
+			"_id": 571476,
+			"name": "Bryansk"
+		},
+
+		{
+			"_id": 569696,
+			"name": "Cheboksary"
+		},
+
+		{
+			"_id": 561667,
+			"name": "Gelendzhik"
+		},
+
+		{
+			"_id": 2023469,
+			"name": "Irkutsk"
+		},
+
+		{
+			"_id": 554840,
+			"name": "Izhevsk"
+		},
+
+		{
+			"_id": 554234,
+			"name": "Kaliningrad"
+		},
+
+		{
+			"_id": 551487,
+			"name": "Kazan"
+		},
+
+		{
+			"_id": 2022890,
+			"name": "Khabarovsk"
+		},
+
+		{
+			"_id": 2022143,
+			"name": "Khuzhir"
+		},
+
+		{
+			"_id": 548114,
+			"name": "Kislovodsk"
+		},
+
+		{
+			"_id": 542420,
+			"name": "Krasnodar"
+		},
+
+		{
+			"_id": 1502026,
+			"name": "Krasnoyarsk"
+		},
+
+		{
+			"_id": 538560,
+			"name": "Kursk"
+		},
+
+		{
+			"_id": 2020743,
+			"name": "Listvyanka"
+		},
+
+		{
+			"_id": 2123628,
+			"name": "Magadan"
+		},
+
+		{
+			"_id": 524901,
+			"name": "Moscow"
+		},
+
+		{
+			"_id": 524305,
+			"name": "Murmansk"
+		},
+
+		{
+			"_id": 520555,
+			"name": "Nizhny Novgorod"
+		},
+
+		{
+			"_id": 1496747,
+			"name": "Novosibirsk"
+		},
+
+		{
+			"_id": 1496153,
+			"name": "Omsk"
+		},
+
+		{
+			"_id": 515003,
+			"name": "Orenburg"
+		},
+
+		{
+			"_id": 519560,
+			"name": "Penza"
+		},
+
+		{
+			"_id": 511196,
+			"name": "Perm"
+		},
+
+		{
+			"_id": 504341,
+			"name": "Pskov"
+		},
+
+		{
+			"_id": 503550,
+			"name": "Pyatigorsk"
+		},
+
+		{
+			"_id": 501175,
+			"name": "Rostov-On-Don"
+		},
+
+		{
+			"_id": 500096,
+			"name": "Ryazan"
+		},
+
+		{
+			"_id": 1493197,
+			"name": "Salekhard"
+		},
+
+		{
+			"_id": 499099,
+			"name": "Samara"
+		},
+
+		{
+			"_id": 498677,
+			"name": "Saratov"
+		},
+
+		{
+			"_id": 496638,
+			"name": "Sergiev Posad"
+		},
+
+		{
+			"_id": 491687,
+			"name": "Smolensk"
+		},
+
+		{
+			"_id": 491422,
+			"name": "Sochi"
+		},
+
+		{
+			"_id": 498817,
+			"name": "Saint Petersburg"
+		},
+
+		{
+			"_id": 487846,
+			"name": "Stavropol"
+		},
+
+		{
+			"_id": 485824,
+			"name": "Suzdal"
+		},
+
+		{
+			"_id": 1489425,
+			"name": "Tomsk"
+		},
+
+		{
+			"_id": 480562,
+			"name": "Tula"
+		},
+
+		{
+			"_id": 480060,
+			"name": "Tver"
+		},
+
+		{
+			"_id": 2014407,
+			"name": "Ulan-Ude"
+		},
+
+		{
+			"_id": 2013348,
+			"name": "Vladivostok"
+		},
+
+		{
+			"_id": 472757,
+			"name": "Volgograd"
+		},
+
+		{
+			"_id": 472045,
+			"name": "Voronezh"
+		},
+
+		{
+			"_id": 2013159,
+			"name": "Yakutsk"
+		},
+
+		{
+			"_id": 1486209,
+			"name": "Yekaterinburg"
+		}
+	]
+}

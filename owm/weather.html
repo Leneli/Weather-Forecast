@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="weather.css">
+	<script src="underscore-min.js"></script>
+	<script src="jquery-3.0.0.min.js"></script>
+</head>
+
+<body>
+
+	<section id="weather-widget">
+
+		<div class="data">
+			<h1 id="header"></h1>
+			<div>
+				<input id="city-input" type="text" list="city-list">
+				<datalist id="city-list"></datalist>
+			</div>
+		</div>
+
+		<table>
+			<thead>
+				<tr>
+					<th></th>
+					<th></th>
+					<th colspan="2">Temperature, &deg;F</th>
+					<th>Precipitation, mm</th>
+					<th>Cloudiness, %</th>
+					<th>Humidity, %</th>
+					<th>Wind speed, m/h</th>
+					<th>Atmospheric pressure, hPa</th>
+				</tr>
+			</thead>
+			<tbody id="weather_tbody"></tbody>
+		</table>
+
+		<p class="data"><a id="more" href="#" target="_blank">More info &rarr;</a></p>
+
+	</section>
+
+
+	<script src="weather.js"></script>
+</body>
+
+</html>

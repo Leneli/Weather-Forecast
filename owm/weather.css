@@ -1,0 +1,74 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#weather-widget {
+	max-width: 880px;
+	height: 408px;
+	background-color: #FAFAFA;
+	border: 1px dotted #B7B7AD;
+	margin: 0;
+	padding: 2px 0;
+	color: #555;
+}
+
+.data {
+	background: #028BFF;
+	line-height: 30px;
+	vertical-align: middle;
+	margin: 0;
+}
+
+.data > h1 {
+	display: inline;
+}
+
+.data > h1,
+.data > a,
+.data > a:hover {
+	color: #fff;
+	padding: 5px 20px;
+	text-decoration: none;
+}
+
+.data > div {
+	float: right;
+}
+
+input {
+	margin: 4px 4px 0 0;
+	padding: 3px;
+	height: 24px;
+	border: none;
+	color: #555;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+	background: #fff;
+}
+
+th {
+	padding: 10px 5px;
+	border-bottom: 3px double #028BFF;
+}
+
+#weather_tbody td:first-child {
+	padding-left: 10px;
+	color: #028BFF;
+	font-weight: bold;
+}
+
+#weather_tbody td:not(:first-child) {
+	text-align: center;
+}
+
+#weather_tbody > tr:hover {
+	background: rgba(2, 129, 255, 0.15);
+}
